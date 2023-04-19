@@ -7,7 +7,6 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
- Bibliography
 
 Boot, Peter. “Towards a TEI-Based Encoding Scheme for the Annotation of Parallel Texts.” _Literary and Linguistic Computing_, vol. 24, no. 3, Sept. 2009, pp. 347–61. _Silverchair_, [https://doi.org/10.1093/llc/fqp023](https://doi.org/10.1093/llc/fqp023).
 
