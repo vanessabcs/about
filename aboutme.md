@@ -3,6 +3,21 @@ layout: page
 title: Vanessa Barcelos
 subtitle: PhD Researcher and Instructor at the University of Miami
 ---
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="..." alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Third slide">
+    </div>
+  </div>
+</div>
+
 ### Education
 
 2021-2026 College of Arts and Sciences English PhD - University of Miami
@@ -81,18 +96,18 @@ Ran my own business as an English teacher for specific purposes. Designed prepar
 Created, edited and reviewed scripts for short, recorded English High School classes.
 
 #### TESOL teaching
-- English Teacher (TESOL) | Cultura Inglesa | Fortaleza, Brazil | Feb 2020 – July 2020
-- English Teacher (TESOL) | Ceará Foreign Language Center | Fortaleza, Brazil | Feb 2012 – Dec 2015
-- English Teacher (TESOL) | Poliglota Institute| Fortaleza, Brazil | Aug 2011 – Dec 2014
-- Internship as English Teacher (TESOL) | State University of Ceará | Fortaleza, Brazil | Mar 2010 – Jun 2011
-- English Teacher (TESOL) | Wizard School | Fortaleza, Brazil | Aug 2009 – Dec 2009
+- English Teacher (TESOL) at Cultura Inglesa, Fortaleza, Brazil, Feb 2020 – July 2020
+- English Teacher (TESOL) at Ceará Foreign Language Center, Fortaleza, Brazil, Feb 2012 – Dec 2015
+- English Teacher (TESOL) at Poliglota Institute, Fortaleza, Brazil, Aug 2011 – Dec 2014
+- Internship as English Teacher (TESOL) at State University of Ceará, Fortaleza, Brazil, Mar 2010 – Jun 2011
+- English Teacher (TESOL) at Wizard School, Fortaleza, Brazil, Aug 2009 – Dec 2009
 
 #### Primary and Secondary School teaching
-- English High School Teacher | Antares School | Fortaleza, Brazil | Aug 2014 – Aug 2019
+- English High School Teacher at Antares School, Fortaleza, Brazil, Aug 2014 – Aug 2019
 Prepared students for specific English university entrance exams. There was no didactic material for this public, so I developed our own book about the necessary skills, including reading strategies, vocabulary, grammar and writing.
-- English High School Teacher | Master School | Fortaleza, Brazil | Jan 2015 – Aug 2019
-- English High School Teacher | Lourenço Filho School | Fortaleza, Brazil | Mar 2019 – Aug 2019
-- English Teacher | Osmamir Primary School | Fortaleza, Brazil | Feb 2009 – Jul 2009
+- English High School Teacher at Master School, Fortaleza, Brazil, Jan 2015 – Aug 2019
+- English High School Teacher, Lourenço Filho School, Fortaleza, Brazil, Mar 2019 – Aug 2019
+- English Teacher at Osmamir Primary School, Fortaleza, Brazil, Feb 2009 – Jul 2009
 
 #### Languages and Skills
 - Languages: English – Fluent; Portuguese – Native; Spanish – Conversational; German – Conversational; Latin – Advanced
