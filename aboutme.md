@@ -87,12 +87,12 @@ Barcelos, Vanessa R.; Brasil, Jaciara B. Text-image relations in didactic materi
 Teach academic writing and research skills for college freshmen from diverse majors, nationalities, and backgrounds.
 
 #### Tutoring, editing, writing and translation
-- Writing Tutor at the Athletic Department | University of Miami | Dec 2022 – Present
-- Writing Center Tutor | University of Miami | Aug 2021 – May 2022
+- Writing Tutor at the Athletic Department at the University of Miami, Dec 2022 – Present
+- Writing Center Tutor at the University of Miami, Aug 2021 – May 2022
 Advised undergraduate and graduate students and alumni from the University of Miami regarding the editing, crafting, and polishing the form and content of their written assignments.
 - Private Teacher of English as a Second Language
 Ran my own business as an English teacher for specific purposes. Designed preparatory classes for SAT, TOEFL, GRE and academic English, offering exclusive advice and personalized practice to help students improve their English skills and scores, in live and recorded classes.
-- English Teacher, Writer and Editor | Desenrolado | Fortaleza, Brazil | Jan 2020 – Aug 2022
+- English Teacher, Writer and Editor at Desenrolado, Fortaleza, Brazil, Jan 2020 – Aug 2022
 Created, edited and reviewed scripts for short, recorded English High School classes.
 
 #### TESOL teaching
