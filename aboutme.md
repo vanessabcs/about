@@ -74,31 +74,28 @@ Teach academic writing and research skills for college freshmen from diverse maj
 #### Tutoring, editing, writing and translation
 - Writing Tutor at the Athletic Department | University of Miami | Dec 2022 – Present
 - Writing Center Tutor | University of Miami | Aug 2021 – May 2022
-o Advised undergraduate and graduate students and alumni from the University of Miami regarding
-the editing, crafting, and polishing the form and content of their written assignments.
-• Private Teacher of English as a Second Language
-o Ran my own business as an English teacher for specific purposes. Designed preparatory classes for
-SAT, TOEFL, GRE and academic English, offering exclusive advice and personalized practice to
-help students improve their English skills and scores, in live and recorded classes.
-• English Teacher, Writer and Editor | Desenrolado | Fortaleza, Brazil | Jan 2020 – Aug 2022
-o Created, edited and reviewed scripts for short, recorded English High School classes.
-TESOL teaching
-• English Teacher (TESOL) | Cultura Inglesa | Fortaleza, Brazil | Feb 2020 – July 2020
-• English Teacher (TESOL) | Ceará Foreign Language Center | Fortaleza, Brazil | Feb 2012 – Dec 2015
-• English Teacher (TESOL) | Poliglota Institute| Fortaleza, Brazil | Aug 2011 – Dec 2014
-• Internship as English Teacher (TESOL) | State University of Ceará | Fortaleza, Brazil | Mar 2010 – Jun 2011
-• English Teacher (TESOL) | Wizard School | Fortaleza, Brazil | Aug 2009 – Dec 2009
-Primary and Secondary School teaching
-• English High School Teacher | Antares School | Fortaleza, Brazil | Aug 2014 – Aug 2019
-o Prepared students for specific English university entrance exams. There was no didactic material
-for this public, so I developed our own book about the necessary skills, including reading strategies,
-vocabulary, grammar and writing.
-• English High School Teacher | Master School | Fortaleza, Brazil | Jan 2015 – Aug 2019
-• English High School Teacher | Lourenço Filho School | Fortaleza, Brazil | Mar 2019 – Aug 2019
-• English Teacher | Osmamir Primary School | Fortaleza, Brazil | Feb 2009 – Jul 2009
-Languages and Skills
-• Languages: English – Fluent; Portuguese – Native; Spanish – Conversational; German – Conversational; Latin
-– Advanced
-• Design (Canva, Power point, Adobe Illustrator, video editing);
-• Blog and website writing and management (GitHub, Markdown, HTML, CSS, XML);
-• Data collection and analysis; mapping and visualization tools such as ArcGIS.
+Advised undergraduate and graduate students and alumni from the University of Miami regarding the editing, crafting, and polishing the form and content of their written assignments.
+- Private Teacher of English as a Second Language
+Ran my own business as an English teacher for specific purposes. Designed preparatory classes for SAT, TOEFL, GRE and academic English, offering exclusive advice and personalized practice to help students improve their English skills and scores, in live and recorded classes.
+- English Teacher, Writer and Editor | Desenrolado | Fortaleza, Brazil | Jan 2020 – Aug 2022
+Created, edited and reviewed scripts for short, recorded English High School classes.
+
+#### TESOL teaching
+- English Teacher (TESOL) | Cultura Inglesa | Fortaleza, Brazil | Feb 2020 – July 2020
+- English Teacher (TESOL) | Ceará Foreign Language Center | Fortaleza, Brazil | Feb 2012 – Dec 2015
+- English Teacher (TESOL) | Poliglota Institute| Fortaleza, Brazil | Aug 2011 – Dec 2014
+- Internship as English Teacher (TESOL) | State University of Ceará | Fortaleza, Brazil | Mar 2010 – Jun 2011
+- English Teacher (TESOL) | Wizard School | Fortaleza, Brazil | Aug 2009 – Dec 2009
+
+#### Primary and Secondary School teaching
+- English High School Teacher | Antares School | Fortaleza, Brazil | Aug 2014 – Aug 2019
+Prepared students for specific English university entrance exams. There was no didactic material for this public, so I developed our own book about the necessary skills, including reading strategies, vocabulary, grammar and writing.
+- English High School Teacher | Master School | Fortaleza, Brazil | Jan 2015 – Aug 2019
+- English High School Teacher | Lourenço Filho School | Fortaleza, Brazil | Mar 2019 – Aug 2019
+- English Teacher | Osmamir Primary School | Fortaleza, Brazil | Feb 2009 – Jul 2009
+
+#### Languages and Skills
+- Languages: English – Fluent; Portuguese – Native; Spanish – Conversational; German – Conversational; Latin – Advanced
+- Design (Canva, Power point, Adobe Illustrator, video editing);
+- Blog and website writing and management (GitHub, Markdown, HTML, CSS, XML);
+- Data collection and analysis; mapping and visualization tools such as ArcGIS.
