@@ -7,10 +7,10 @@ subtitle: PhD Researcher and Instructor at the University of Miami
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="..." alt="First slide">
+      <img class="d-block w-100" src="https://freeimage.host/i/HSFPFwX" alt="UM DHRI Conference presentation">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="..." alt="Second slide">
+      <img class="d-block w-100" src="https://freeimage.host/i/HSFPKtn" alt="PhD Cohort">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="..." alt="Third slide">
