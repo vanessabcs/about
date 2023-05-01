@@ -36,7 +36,7 @@ subtitle: PhD Researcher and Instructor at the University of Miami
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
-</div> bbv
+</div> 
 
 
 
