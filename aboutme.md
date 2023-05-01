@@ -9,20 +9,20 @@ subtitle: PhD Researcher and Instructor at the University of Miami
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 3</div>
-    <img src="img1.jpg" style="width:100%">
-    <div class="text">Caption Text</div>
+    <img src="https://ibb.co/tQRqTzc" style="width:100%">
+    <div class="text">Nice to meet you</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="img2.jpg" style="width:100%">
-    <div class="text">Caption Two</div>
+    <img src="https://ibb.co/zGHtPmj" style="width:100%">
+    <div class="text">PhD Cohort</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="img3.jpg" style="width:100%">
-    <div class="text">Caption Three</div>
+    <img src="https://ibb.co/1R2PTYN" style="width:100%">
+    <div class="text">Conference</div>
   </div>
 
   <!-- Next and previous buttons -->
