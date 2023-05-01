@@ -3,42 +3,7 @@ layout: page
 title: Vanessa Barcelos
 subtitle: PhD Researcher and Instructor at the University of Miami
 ---
-<!-- Slideshow container -->
-<div class="slideshow-container">
-
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="https://ibb.co/tQRqTzc" style="width:100%">
-    <div class="text">Nice to meet you</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="https://ibb.co/zGHtPmj" style="width:100%">
-    <div class="text">PhD Cohort</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="https://ibb.co/1R2PTYN" style="width:100%">
-    <div class="text">Conference</div>
-  </div>
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-</div> 
-
-
+![Thumb](thumb.png)
 
 ### Education
 
