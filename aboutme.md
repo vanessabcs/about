@@ -13,7 +13,7 @@ subtitle: PhD Researcher and Instructor at the University of Miami
       <img class="d-block w-100" src="https://freeimage.host/i/HSFPKtn" alt="PhD Cohort">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="..." alt="Third slide">
+      <img class="d-block w-100" src="https://freeimage.host/i/HSFQnz7" alt="Nice to meet you pic">
     </div>
   </div>
 </div>
