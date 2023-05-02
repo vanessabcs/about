@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Vanessa Barcelos
+# title: Vanessa Barcelos
 
 # Your name to show in the footer
 author: Vanessa Barcelos
@@ -20,10 +20,12 @@ author: Vanessa Barcelos
 ###############################################
 
 navbar-links:
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://vanessabcs.github.io/"
+  Projects:
+    - Dreaming in Cuban: "https://storymaps.arcgis.com/stories/f82a7f09276f4dbb96b5784bfd5e479d"
+    - Newes from Scotland: "https://vanessabcs.github.io/newes.html"
+  Publications: "https://vanessabcs.github.io/"
+  CV: 
+  Teaching: 
 
 ################
 # --- Logo --- #
