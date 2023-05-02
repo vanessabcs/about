@@ -10,7 +10,8 @@
 ############################
 
 # Name of website
-# title: Vanessa Barcelos
+title: Vanessa Barcelos
+round-title: false
 
 # Your name to show in the footer
 author: Vanessa Barcelos
@@ -19,7 +20,7 @@ author: Vanessa Barcelos
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
+navbar-links: 
   Projects:
     - Dreaming in Cuban: "https://storymaps.arcgis.com/stories/f82a7f09276f4dbb96b5784bfd5e479d"
     - Newes from Scotland: "https://vanessabcs.github.io/newes.html"
